@@ -1,0 +1,170 @@
+body {
+	background: #fff;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.Rectangle {
+	isolation: isolate;
+	height: 50px;
+	width: 1502px;
+	background-color: #191919;
+	margin-left: -144px;
+	margin-top: -8px;
+
+}
+#Channel {
+	background-color:transparent;
+	border-radius:28px;
+	border:1px solid #e52000;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:10px;
+	padding:10px 20.5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff;
+}
+#Channel:hover {
+	background-color:transparent;
+	color: black;
+	background-color: white;
+}
+.Channel:active {
+	object-position: relative;
+}
+#Channel {
+	position: absolute;
+	margin-top: -45px;
+	margin-left: 975px;
+}
+.Contact {
+	background-color:transparent;
+	border-radius:28px;
+	border:1px solid #e52000;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:10px;
+	padding:10px 20.5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff;
+}
+.Contact:hover {
+	background-color:transparent;
+	color: black;
+	background-color: white;
+}
+.Contact:active {
+object-position: relative;
+}
+.Contact {
+	position: absolute;
+	margin-top: -45px;
+	margin-left: 1082px;
+}
+.Register {
+	background-color:transparent;
+	border-radius:28px;
+	border:1px solid #e52000;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:10px;
+	padding:10px 20.5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff;
+}
+.Register:hover {
+	background-color:transparent;
+	color: black;
+	background-color: white;
+}
+.Register:active {
+	object-position: relative;
+}
+.Register {
+	position: absolute;
+	margin-top: -45px;
+	margin-left: 1185px;
+}
+.Log {
+	background-color:transparent;
+	border-radius:28px;
+	border:1px solid #99aab5;
+	display:inline-block;
+	cursor:pointer;
+	color:#99aab5;
+	font-family:Arial;
+	font-size:10px;
+	padding:10px 19px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff;
+}
+.Log:hover {
+	background-color:transparent;
+	color: black;
+	background-color: #edebea;
+}
+.Log:active {
+	object-position: relative;
+}
+.Log {
+	position: absolute;
+	margin-top: -45px;
+	margin-left: 1290px;
+}
+.Register2 {
+	background-color:white;
+	border-radius:28px;
+	border:2px solid #e52000;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:Arial;
+	font-size:10px;
+	padding:10px 20.5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff;
+}
+.Register2:hover {
+	background-color:white;
+	color: white;
+	background-color: black;
+}
+.Register2:active {
+	object-position: relative;
+}
+.Register2 {
+	position: absolute;
+	margin-top: 430px;
+	margin-left: 200px;
+}
+.Homebutton {
+	background-color:transparent;
+	border-radius:28px;
+	border:2px solid #e52000;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:10px;
+	padding:10px 19px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff;
+}
+.Homebutton:hover {
+	background-color:transparent;
+	color: black;
+	background-color: white;
+}
+.Homebutton:active {
+	object-position: relative;
+}
+.Homebutton {
+	position: absolute;
+	margin-top: -45.5px;
+	margin-left: 885px;
+}
